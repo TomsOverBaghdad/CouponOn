@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CouponOn</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_login">Login</string>
+    <string name="action_login_2">Already Registered?</string>
+    <string name="action_logout">Log Out</string>
+    <string name="action_mylists">My Lists</string>
+    <string name="action_search">Search</string>
+    <string name="action_register">Register</string>
+    <string name="action_scan">Scan</string>
+    <string name="action_new_list">New List</string>
+    <string name="action_find_savings">Find Savings</string>
+    <string name="signin">Sign In</string>
+    <string name="age">Age</string>
+    <string name="zipcode">Zip Code</string>    
+    <string name="cancel">Cancel</string>
+    <string name="username">Email Address</string>
+    <string name="password">Password</string>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+</resources>

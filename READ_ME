@@ -1,0 +1,16 @@
+This was produced as an independent study project for UMD CMSC499. It is broken, and needs a bit more work also currently uses fake data.
+
+This app will work with the database that I have set up. I highly recommend using a different set up or one that allows the database
+to talk with the app directly instead of going through the server intermediary and create the necessary php pages... (the pages and database
+are secured, so I will not be sharing that.) 
+
+The Login and main page activities are straight forward.
+
+The MyList activity is the one that shows the name of the lists of the coupons or products. There is one activity that works for both
+depending on what gets passed in.
+
+The coupon list activity and product list activity are the lists for the coupons and products, these actually show the items and arent just
+the list name.
+
+When the person scans a product from the main page, the product list activity opens up and handles the actual scanning, which is done by 
+a third party scanner and returns the result for us to search
